@@ -79,7 +79,7 @@ function LinkCard({ href, title, image }) {
           {image && (
             <Image
               className='rounded-sm'
-              alt='github logo'
+              alt={`${title}`}
               src={image}
               width={40}
               height={40}

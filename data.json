@@ -3,7 +3,12 @@
     "avatar": "https://pbs.twimg.com/profile_images/1627918970606198784/SEE8uYGM_400x400.jpg",
     "links": [
         {
-            "title": "Github",
+            "title": "My Website",
+            "href": "https://dewanto-dev.vercel.app",
+            "image": ""
+        },
+        {
+            "title": "GitHub",
             "href": "https://github.com/rafli-dewanto",
             "image": ""
         },
